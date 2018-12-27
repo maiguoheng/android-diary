@@ -1,5 +1,5 @@
 # android-diary
-安卓简单日记本  
+安卓日记本  
   
 主界面：  
 ![主界面](https://github.com/maiguoheng/android-diary/blob/master/%E7%95%8C%E9%9D%A2%E5%9B%BE%E7%89%87/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg.png)
